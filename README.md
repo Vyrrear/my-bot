@@ -1,5 +1,3 @@
-# my-bot
-Anti-Nuke
 {
   "name": "my-bot",
   "version": "1.0.0",
