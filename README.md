@@ -1,2 +1,10 @@
 # my-bot
 Anti-Nuke
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
