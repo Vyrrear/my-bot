@@ -11,5 +11,9 @@
   },
   "dependencies": {
     "discord.js": "^14.14.1"
+ / (root)
+  ├── index.js
+  ├── package.json
   }
 }
+
