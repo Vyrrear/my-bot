@@ -2,7 +2,14 @@
   "name": "my-bot",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
-    "discord.js": "^14.0.0"
+    "discord.js": "^14.14.1"
   }
 }
